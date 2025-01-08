@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-survey-app/static/css/main.e6c13ad2.css",
+    "main.js": "/demo-survey-app/static/js/main.496710d6.js",
+    "index.html": "/demo-survey-app/index.html",
+    "main.e6c13ad2.css.map": "/demo-survey-app/static/css/main.e6c13ad2.css.map",
+    "main.496710d6.js.map": "/demo-survey-app/static/js/main.496710d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.496710d6.js"
+  ]
+}
